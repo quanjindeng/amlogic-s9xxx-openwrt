@@ -55,3 +55,5 @@ svn co https://github.com/ophub/luci-app-amlogic/trunk/luci-app-amlogic package/
 #
 # ------------------------------- Other ends -------------------------------
 
+
+git clone https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic.git package/lean/luci-app-unblockneteasemusic
