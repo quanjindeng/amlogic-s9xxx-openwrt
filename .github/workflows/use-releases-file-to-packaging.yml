@@ -10,7 +10,7 @@ on:
   repository_dispatch:
   workflow_dispatch:
   schedule:
-    - cron: '0 22 */15 * *'
+    - cron: '0 22 1,15 * *'
 
 env:
   UPLOAD_FIRMWARE: false
